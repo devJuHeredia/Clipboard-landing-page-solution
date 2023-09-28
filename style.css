@@ -303,6 +303,9 @@ body {
     .btns button {
         width: 229px;
     }
+    .section-1 {
+        margin: 70px 30px 150px;
+    }
     .section-1-title1 {
         font-size: 2.1em;
         word-spacing: 4px;
